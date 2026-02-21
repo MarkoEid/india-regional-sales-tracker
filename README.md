@@ -5,6 +5,24 @@
 
 ---
 
+## 📂 Dataset Information
+* **Source:** [Kaggle](https://www.kaggle.com/) (Nestle India Sales Dataset)
+* **Domain:** Fast-Moving Consumer Goods (FMCG) / Confectionery
+* **Geography:** India (Regional & State-level data)
+
+### 📋 Column Glossary & Data Dictionary
+| Column Name | Description |
+| :--- | :--- |
+| **State** | The specific Indian state where the transaction occurred (e.g., Maharashtra, Delhi). |
+| **Region** | Geographic grouping of states (North, West, East, South). |
+| **Product / SKU** | The name of the specific Nestle product sold (e.g., Smarties, Milky Bar). |
+| **Price** | The monetary value of the transaction (Total Revenue). |
+| **Units** | The quantity of items sold in a single transaction. |
+| **Date** | The timestamp of the sale, used for identifying monthly and seasonal trends. |
+| **%GT Sum of Price** | A calculated field showing the percentage contribution of a product to total revenue. |
+
+---
+
 ## 📊 Executive Summary
 This dashboard provides a comprehensive view of **3M in total revenue** and **34K units sold**. It highlights key performance indicators (KPIs) to help stakeholders understand which regions and products are driving growth.
 
