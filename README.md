@@ -1,7 +1,7 @@
 # 🍫 Nestle Sales Analytics - India Dashboard
 
+<img width="1440" height="800" alt="Dashboard Sales" src="https://github.com/user-attachments/assets/ae4bfed8-418e-459d-bde8-b0047c585902" />
 
-![Uploading Dashboard Sales.png…]()
 
 ---
 
